@@ -1,0 +1,14 @@
+/home/operatorio/Документы/codes/kansasCityShuffle/bin/Debug/net9.0/kansasCityShuffle
+/home/operatorio/Документы/codes/kansasCityShuffle/bin/Debug/net9.0/kansasCityShuffle.deps.json
+/home/operatorio/Документы/codes/kansasCityShuffle/bin/Debug/net9.0/kansasCityShuffle.runtimeconfig.json
+/home/operatorio/Документы/codes/kansasCityShuffle/bin/Debug/net9.0/kansasCityShuffle.dll
+/home/operatorio/Документы/codes/kansasCityShuffle/bin/Debug/net9.0/kansasCityShuffle.pdb
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/kansasCityShuffle.GeneratedMSBuildEditorConfig.editorconfig
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/kansasCityShuffle.AssemblyInfoInputs.cache
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/kansasCityShuffle.AssemblyInfo.cs
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/kansasCityShuffle.csproj.CoreCompileInputs.cache
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/kansasCityShuffle.dll
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/refint/kansasCityShuffle.dll
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/kansasCityShuffle.pdb
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/kansasCityShuffle.genruntimeconfig.cache
+/home/operatorio/Документы/codes/kansasCityShuffle/obj/Debug/net9.0/ref/kansasCityShuffle.dll
