@@ -11,20 +11,20 @@ class Program
         Console.WriteLine(string.Join(", ", numberArray));
     }
 
-    static void Shuffle(int[] valueArray)
+    static void Shuffle(int[] value)
     {
         Random random = new();
 
         int tempArray;
 
-        for (int i = valueArray.Length - 1; i > 0; i--)
+        for (int i = value.Length - 1; i > 0; i--)
         {
             int randomRange = i + 1;
-            int j = random.Next(randomRange);
+            int randomNumber = random.Next(randomRange);
 
-            tempArray = valueArray[i];
-            valueArray[i] = valueArray[j];
-            valueArray[j] = tempArray; 
+            tempArray = value[i];
+            value[i] = value[randomNumber];
+            value[randomNumber] = tempArray; 
         }
     }
 }

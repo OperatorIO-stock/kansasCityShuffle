@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kansasCityShuffle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e21ae64df752aad18c4fe813f81395da1e621cd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("kansasCityShuffle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kansasCityShuffle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

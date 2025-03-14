@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/operatorio/Документы/codes/kansasCityShuffle/kansasCityShuffle.csproj",
+      "projectUniqueName": "/home/operatorio/Документы/codes/kansasCityShuffle/kansasCityShuffle/kansasCityShuffle.csproj",
       "projectName": "kansasCityShuffle",
-      "projectPath": "/home/operatorio/Документы/codes/kansasCityShuffle/kansasCityShuffle.csproj",
+      "projectPath": "/home/operatorio/Документы/codes/kansasCityShuffle/kansasCityShuffle/kansasCityShuffle.csproj",
       "packagesPath": "/home/operatorio/.nuget/packages/",
-      "outputPath": "/home/operatorio/Документы/codes/kansasCityShuffle/obj/",
+      "outputPath": "/home/operatorio/Документы/codes/kansasCityShuffle/kansasCityShuffle/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/operatorio/.nuget/NuGet/NuGet.Config"
